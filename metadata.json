@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Sentinels",
+  "description": "A professional-grade cloud security scanner and remediation platform featuring multi-cloud health monitoring, automated findings remediation, and attack path visualization.",
+  "requestFramePermissions": []
+}
