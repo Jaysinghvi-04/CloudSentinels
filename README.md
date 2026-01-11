@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1QynvRdMq00YVroq1KZXo4q
 3. Run the app:
    `npm run dev`
 # CloudSentinels
+# CloudSentinels
